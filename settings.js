@@ -32,7 +32,7 @@ global.hbmods = "https://herbert70.blogspot.com/"
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
 global.mess = {
-    success: '\n*©HBWABot*!', 
+    success: '\n*©yatoHBWABot*!', 
     admin: 'He features hi chu admin-te chauh hman thei tur a siam a ni!',
     botAdmin: 'Admin-ah min dah hmasa phawt la chuan ka ti thei ang!',
     owner: 'He features hi a neitu chauh hman thei tura siam a ni!',
