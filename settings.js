@@ -26,13 +26,13 @@ global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "Yato HBWABot"
+global.author = "YatoHBWABot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
 global.mess = {
-    success: '\n*©yatoHBWABot*!', 
+    success: '\n*©HBWABot*!', 
     admin: 'He features hi chu admin-te chauh hman thei tur a siam a ni!',
     botAdmin: 'Admin-ah min dah hmasa phawt la chuan ka ti thei ang!',
     owner: 'He features hi a neitu chauh hman thei tura siam a ni!',
